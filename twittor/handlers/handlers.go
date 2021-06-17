@@ -11,7 +11,7 @@ import (
 	"github.com/webdesigner98everyone/twittor/routers"
 )
 
-/*Manejadores seteo mi puerto, el Handler y pongo a escuchar al Servidor */
+/*Manejadores seteo mi puerto, el Handler y coloco a escuchar al Servidor */
 func Manejadores() {
 	router := mux.NewRouter()
 

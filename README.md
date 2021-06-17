@@ -3,6 +3,7 @@ para la ejecucion del siguiente Software enfocado en Backend necesitaremos el ap
 
 1. MogoBD Compass
 2. Postman
+
 Postman nos ayudara a la ejecucion de pruebas backend de nuestro software llamado twittor.
 
 Recomendaciones MONGODB:

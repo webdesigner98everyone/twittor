@@ -14,3 +14,6 @@ Recomendaciones MONGODB:
 
 Recomendaciones POSTMAN:
 1. Nuestro postman contiene por ahora 7 colecciones las cuales se mencionaron en los puntos 3 y 4 de las recomendaciones de mongo, estas colecciones van por medio de POST, GET, PUT y DEL
+2. En el repos esta una carpeta llamda POSTMAN en la que se ubica nuestro Postman en forma de JSON para la importacion en la app local
+
+TENER ENCUENTA QUE TAMBIEN EL SOFTWARE ESTA DISPONIBLE EN HEROKU.
